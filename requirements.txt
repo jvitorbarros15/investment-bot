@@ -1,0 +1,21 @@
+# Data Handling
+pandas
+numpy
+
+# Fetching Stock Data
+yfinance
+requests
+
+# Machine Learning
+tensorflow
+scikit-learn
+
+# Sentiment Analysis
+nltk
+textblob
+
+# Visualization (Optional)
+matplotlib
+
+# Broker API (Optional, e.g., MetaTrader5)
+MetaTrader5

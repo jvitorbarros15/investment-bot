@@ -1,0 +1,4 @@
+2025-03-14 02:36:11,814 - ERROR - Unexpected error: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-03-14 02:37:47,218 - ERROR - Unexpected error: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-03-14 02:39:52,746 - ERROR - Unexpected error: name 'pd' is not defined
+2025-03-14 02:40:35,409 - ERROR - Unexpected error: unsupported format string passed to Series.__format__
